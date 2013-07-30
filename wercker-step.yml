@@ -1,6 +1,7 @@
 name: drush
 version: 0.0.1
 description: installs drush command line tool for Drupal
+type: build
 keywords:
     - drupal
     - simpletest
