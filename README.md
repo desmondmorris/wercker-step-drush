@@ -9,7 +9,3 @@ A wercker build step that installs drush, the Drupal command line tool
 ## Options
 
 This step has no options.
-
-## Example
-
-    - drush
