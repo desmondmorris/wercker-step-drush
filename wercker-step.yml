@@ -1,5 +1,5 @@
 name: drush
-version: 0.0.1
+version: 0.0.2
 description: Installs drush command line tool for Drupal via PEAR.
 type: build
 keywords:
