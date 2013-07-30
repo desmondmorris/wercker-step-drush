@@ -1,6 +1,10 @@
 # Drush
 
-Installs the Drush command line tool for Drupal via Pear
+A wercker build step that installs drush, the Drupal command line tool
+
+## Requirements
+
+    - PHP Box
 
 ## Options
 
