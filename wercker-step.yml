@@ -1,6 +1,6 @@
 name: drush
 version: 0.0.1
-description: installs drush command line tool for Drupal
+description: Installs drush command line tool for Drupal via PEAR.
 type: build
 keywords:
     - drupal
